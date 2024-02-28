@@ -1,0 +1,200 @@
+/*
+Yuan Tang 
+course:Web Development
+description:Assingment1 
+*/
+
+
+*{
+    color:blueviolet;
+}
+
+/* Sets the default font and container alignment */
+body {
+    font-family: Arial, sans-serif;
+  }
+
+/*page1css*/
+/* Container for centralized content alignment */
+  .container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 20px;
+  }
+  .header {
+    text-align: center;
+  }
+  .header img {
+    border-radius: 30%;
+    width: 150px; /* Adjust as needed */
+    height: auto;
+  }
+  .header h1 {
+    margin: 20px 0;
+  }
+
+  .navbar {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: #f0f0f0;
+    padding: 10px 0;
+}
+
+/*make the a element looks like a button*/
+.nav-button {
+  display: inline-block;
+  padding: 10px 15px;
+  margin: 5px;
+  background-color: #007bff;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+}
+
+.nav-link {
+  color: #007bff;
+  text-decoration: none;
+  padding: 10px 20px;
+}
+
+.nav-link:hover {
+  text-decoration: underline;
+}
+
+.nav-button:hover {
+    background-color: #0056b3;
+}
+
+  .nav-button:hover{
+    background-color: #4c82af; 
+
+  }
+
+    /*page3css*/
+    .p3body {
+      margin: 0;
+      font-family: sans-serif;
+      background: #f5f6f7;
+    }
+  
+    
+  .p3header {
+      text-align: center;
+      padding: 32px;
+      background-color: #0a0a23;
+      color: #fff;
+      border-bottom: 4px solid #fdb347;
+    }
+  
+    .course-container{
+      display: flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: start;
+      flex-wrap: wrap; 
+  
+    }
+  
+  .course{
+    flex-direction: column;
+    margin:30px; 
+    background-color: burlywood;
+    max-width: 400px;
+      }
+      
+  .animal{
+      width:200px;
+      height:auto;
+      border-radius: 50%;
+      margin-left: 100px;
+  }
+  .course-number{
+      font-weight: bold;
+      color:brown;
+  }
+  
+  
+
+  /*page2 css*/
+  .p2body {
+    font-family: 'Arial', sans-serif;
+    max-width: 800px;
+    margin: auto;
+    background-color:ghostwhite;
+    color: #333;
+    padding: 20px;
+  }
+
+
+  .p2header {
+    background-color: #bb3951;
+    color: #332e2e;
+    text-align: center;
+    padding: 40px 20px; 
+    border-radius: 5%;
+  }
+
+  .p2image {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    border-radius: 50%;
+    margin: -40px auto 25px;
+    display: block;
+    border: 3px solid #fff;
+  }
+  .resume-section {
+    padding: 20px;
+  }
+  .section-title {
+    color: #777;
+    margin-bottom: 10px;
+  }
+
+/*p4css*/
+.p4body {
+  width: 100%;
+  margin: 0;
+  background-color: #1b1b32;
+  color: #f5f6f7;
+  font-family: Tahoma;
+  font-size: 16px;
+}
+
+form {
+  width: 200px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding-bottom: 2em;
+}
+
+.p4header {
+  margin: 1em auto;
+  text-align: center;
+}
+
+label {
+  display: block;
+  margin: 0.5rem 0;
+}
+
+input[type="submit"] {
+  display: block;
+  width: 60%;
+  margin: 1em auto;
+  height: 2em;
+  font-size: 1.1rem;
+  background-color: #3b3b4f;
+  border-color: white;
+  min-width: 300px;
+}
+
+.massage{
+  width:200px;
+  height:200px;
+}
