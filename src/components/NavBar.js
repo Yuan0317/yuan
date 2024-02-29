@@ -47,11 +47,11 @@ export const NavBar=()=>{
           </Nav>
           <span className="navbar-text">
             <div className="social-icon">
-                <a herf="#"><img src={navIcon1} alt=''/></a>
-                <a herf="#"><img src={navIcon2} alt=''/></a>
-                <a herf="#"><img src={navIcon3} alt=''/></a>
+                <a href="https://github.com/Yuan0317"><img src={navIcon1} alt='github'/></a>
+                <a href="https://www.linkedin.com/in/yuan-tang-55ab5628b/"><img src={navIcon2} alt='linkedln'/></a>
+                <a href="https://www.youtube.com/channel/UCIEgoXctMieqqMU1MBsAsIg"><img src={navIcon3} alt='youtube'/></a>
             </div>
-            <button className="vvd" onClick={()=>console.log('connect')}><span>Let's Connect</span></button>
+            {/* <button className="vvd" onClick={()=>console.log('connect')}><span>Let's Connect</span></button> */}
           </span>
         </Navbar.Collapse>
       </Container>
