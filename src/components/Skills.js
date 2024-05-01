@@ -10,7 +10,6 @@ import colorSharp from "../assets/img/color-sharp.png";
 export const Skills = () => {
     const responsive = {
         superLargeDesktop: {
-          // the naming can be any, depends on you.
           breakpoint: { max: 4000, min: 3000 },
           items: 5
         },
@@ -35,25 +34,26 @@ export const Skills = () => {
                 <Col>
                 <div className="skill-bx">
                     <h2>
-                        Skills
+                        Record of my coding
                     </h2>
-                    <p>Specializing in Java/sql/html/css/javascript/bootstrap/react</p>
+                    <p>7-days summary by wakatime(Real-time updates)</p>
                     <Carousel responsive={responsive} infinite={true} className="skill-slide">
-                        <div className="item">
-                            <img src={meter1} alt="Image"/>
-                            <h5>Web development</h5>
+                        <div >
+                        <figure><embed src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/9f14ecd3-dab9-4fe6-8fad-c8d267bacf78.svg"></embed></figure>
+
+                            <h5>Languages</h5>
                         </div>
                         <div className="item">
-                            <img src={meter2} alt="Image"/>
-                            <h5>Brand Identify</h5>
+                        <figure><embed src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/a4e0d304-9816-4e46-ad43-8cfb072903b0.svg"></embed></figure>
+                            <h5>Editors</h5>
                         </div>
                         <div className="item">
-                            <img src={meter3} alt="Image"/>
-                            <h5>Logo Design</h5>
+                        <figure><embed src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/11f41751-ad93-4d99-b4d8-efc1961230c3.svg"></embed></figure>
+                            <h5>Operating Systems</h5>
                         </div>
                         <div className="item">
-                            <img src={meter1} alt="Image"/>
-                            <h5>Web development</h5>
+                        <figure><embed src="https://wakatime.com/share/@018f064e-2efa-4d50-bc5e-4d755acd8022/6f8bb77c-a7e8-4b4d-af94-c400febda9de.svg"></embed></figure>
+                            <h5>Categories</h5>
                         </div>
                     </Carousel>
                 </div>
