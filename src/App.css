@@ -624,3 +624,9 @@ nav.navbar .navbar-toggler[aria-expanded="true"] .navbar-toggler-icon {
   letter-spacing: 0.5px;
   margin-top: 20px;
 }
+
+.project-card-container {
+  border: 2px solid #e2d1f9; /* 浅紫色边框 */
+  padding: 15px; /* 添加一些内边距，让边框更清晰可见 */
+  border-radius: 10px; /* 可选：添加圆角 */
+}

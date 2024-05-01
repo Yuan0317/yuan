@@ -45,9 +45,9 @@ export const Banner = () => {
                 <Col xs={12} md={6} xl={7}>
                     <span className="tagline">Welcome to My Portfolio</span>
                     <h1>{`Hi  I'm Yuan  `}<span className="wrap">{text}</span></h1>
-                    <p>College computer programming student | Specializing in Java/sql/html/css/javascript | Eager to apply academic learnings in a real-world setting</p>
-                    <button onClick={() => window.open('https://www.linkedin.com/in/yuan-tang-55ab5628b/', '_blank')}>
-  Let's connect<ArrowRightCircle size={25}></ArrowRightCircle>
+                    <p>College computer programming student | Specializing in Java/SQL/REACT/JavaScript/PHP </p>
+                    <button onClick={() => window.open('https://www.algonquincollege.com/sat/program/computer-programming/', '_blank')}>
+                    My Course Details<ArrowRightCircle size={25}></ArrowRightCircle>
 </button>
 
                 </Col>
