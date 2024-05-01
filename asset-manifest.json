@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/yuan/static/css/main.0b9d884a.css",
-    "main.js": "/yuan/static/js/main.b9a5c6de.js",
+    "main.css": "/yuan/static/css/main.59a64e89.css",
+    "main.js": "/yuan/static/js/main.91704d53.js",
     "static/js/453.ed3810f9.chunk.js": "/yuan/static/js/453.ed3810f9.chunk.js",
+    "static/media/fitness.png": "/yuan/static/media/fitness.f7343f3dce097c5459b2.png",
     "static/media/color-sharp.png": "/yuan/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/yuan/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/banner-bg.png": "/yuan/static/media/banner-bg.cc1273af450504afe755.png",
@@ -10,10 +11,9 @@
     "static/media/CentraNo2-Bold.ttf": "/yuan/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
     "static/media/CentraNo2-Medium.ttf": "/yuan/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
     "static/media/CentraNo2-Book.ttf": "/yuan/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
-    "static/media/project-img1.png": "/yuan/static/media/project-img1.d593db3f12901bc685c2.png",
     "static/media/footer-bg.png": "/yuan/static/media/footer-bg.7bd67c0f73571d0acc02.png",
-    "static/media/project-img2.png": "/yuan/static/media/project-img2.2e52097c417f9f1134b0.png",
-    "static/media/project-img3.png": "/yuan/static/media/project-img3.675b30d2f975a1bc1d09.png",
+    "static/media/movie_rental.png": "/yuan/static/media/movie_rental.8c59fa46f087817fdf7b.png",
+    "static/media/java_project.png": "/yuan/static/media/java_project.855967eb8a29d094f11b.png",
     "static/media/revicons.eot": "/yuan/static/media/revicons.a77de540a38981833f9e.eot",
     "static/media/revicons.ttf": "/yuan/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/yuan/static/media/revicons.e8746a624ed098489406.woff",
@@ -25,12 +25,12 @@
     "static/media/nav-icon1.svg": "/yuan/static/media/nav-icon1.5531be85d7a8d6f333e5c7136944a022.svg",
     "static/media/nav-icon2.svg": "/yuan/static/media/nav-icon2.ffdd66163e15a0a47c9bcbf975399f1b.svg",
     "index.html": "/yuan/index.html",
-    "main.0b9d884a.css.map": "/yuan/static/css/main.0b9d884a.css.map",
-    "main.b9a5c6de.js.map": "/yuan/static/js/main.b9a5c6de.js.map",
+    "main.59a64e89.css.map": "/yuan/static/css/main.59a64e89.css.map",
+    "main.91704d53.js.map": "/yuan/static/js/main.91704d53.js.map",
     "453.ed3810f9.chunk.js.map": "/yuan/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0b9d884a.css",
-    "static/js/main.b9a5c6de.js"
+    "static/css/main.59a64e89.css",
+    "static/js/main.91704d53.js"
   ]
 }
