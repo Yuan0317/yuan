@@ -13,13 +13,13 @@ export const Projects = () => {
     const projects=[
         {
             title:"Fitness-Website",
-            description:"This is a user-oriented gym website that allows users to easily browse courses on the website. Users can register as members, select courses, and add, update, and delete their registered courses at any time.",
+            description:"This full-stack project was engineered using PHP for basic web layout, JavaScript for frontend functionalities including search filtering and dynamic course displays, and a MySQL database to handle backend operations such as user registration, course information updates, and data deletion.This setup ensured a seamless and efficient user experience tailored for gym members.",
             imgUrl:proImg1,
             githubUrl:"https://github.com/Yuan0317/Fitness-Website",
         },
         {
             title:"Movie-Rental-App",
-            description:"Designed and deployed a robust full-stack database solution with Oracle, enhancing data interaction through sophisticated views and triggers, and streamlined user experiences via Microsoft Access interfaces connected through ODBC",
+            description:"Developed a full-stack database project utilizing Oracle for backend database management. Established complex views and implemented triggers on these views to facilitate updates to underlying tables effectively. Integrated the database with Microsoft Access via ODBC, using Access forms as the user interface for clear and straightforward data management.This setup enabled users to manage data efficiently without complex operations.",
             imgUrl:proImg2,
             githubUrl:"https://github.com/Yuan0317/Movie-Rental-Database-",
         },
