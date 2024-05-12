@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/yuan/static/css/main.59a64e89.css",
-    "main.js": "/yuan/static/js/main.03c5dd09.js",
+    "main.js": "/yuan/static/js/main.6181d151.js",
     "static/js/453.ed3810f9.chunk.js": "/yuan/static/js/453.ed3810f9.chunk.js",
     "static/media/fitness.png": "/yuan/static/media/fitness.f7343f3dce097c5459b2.png",
     "static/media/color-sharp.png": "/yuan/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -26,11 +26,11 @@
     "static/media/nav-icon2.svg": "/yuan/static/media/nav-icon2.ffdd66163e15a0a47c9bcbf975399f1b.svg",
     "index.html": "/yuan/index.html",
     "main.59a64e89.css.map": "/yuan/static/css/main.59a64e89.css.map",
-    "main.03c5dd09.js.map": "/yuan/static/js/main.03c5dd09.js.map",
+    "main.6181d151.js.map": "/yuan/static/js/main.6181d151.js.map",
     "453.ed3810f9.chunk.js.map": "/yuan/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.59a64e89.css",
-    "static/js/main.03c5dd09.js"
+    "static/js/main.6181d151.js"
   ]
 }
