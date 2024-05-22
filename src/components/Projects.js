@@ -4,6 +4,8 @@ import colorSharp2 from "../assets/img/color-sharp2.png";
 import proImg1 from "../assets/img/fitness.png";
 import proImg2 from "../assets/img/movie_rental.png";
 import proImg3 from "../assets/img/java_project.png";
+import proImg4 from "../assets/img/angular.png";
+
 import {Col,Row,Nav,Tab} from "react-bootstrap";
 
 
@@ -11,6 +13,12 @@ import {Col,Row,Nav,Tab} from "react-bootstrap";
 
 export const Projects = () => {
     const projects=[
+      {
+        title:"storefront application（Angular）",
+        description:"Developed a storefront application with Angular for the frontend and Node.js with Express for the backend.Implemented core Angular features: components, services, routing, and directives.Set up a robust Node.js backend handling RESTful APIs and user authentication.Integrated a mock database to emulate real-world data management.Built key features: product management, shopping cart functionality.Applied responsive design using Angular Material for a seamless UI/UX.Tested and debugged API endpoints using Postman.",
+        imgUrl:proImg4,
+        githubUrl:"https://github.com/Yuan0317/Storefront-Application-Angular-",
+    },
         {
             title:"Fitness-Website",
             description:"This full-stack project was engineered using PHP for basic web layout, JavaScript for frontend functionalities including search filtering and dynamic course displays, and a MySQL database to handle backend operations such as user registration, course information updates, and data deletion.This setup ensured a seamless and efficient user experience tailored for gym members.",
